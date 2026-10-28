@@ -1,16 +1,25 @@
-## Hi there 👋
+![Profile image](https://res.cloudinary.com/dgihigbo4/image/upload/v1772409696/about-us-co-founder-main_jfaxjt.webp)
 
-<!--
-**fpucore/fpucore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chris McGimpsey-Jones (cipheranarchist)
 
-Here are some ideas to get you started:
+╭∩╮( •̀_•́ )╭∩╮ Anarchist, Futurist & Freedom Publishers Union™ 
+Co-Founder / QANONSEC™ / Cicada 3301® / Software Architect & 
+Engineer, Entrepreneur in AI & quantum computing observer / 🇨🇳 
+China Interdependence Advocate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- ⚙️ Mostly using: `.hash`, `.sh`, `.c`, `.py`, `.perl`, `.raku`, `.js`, `.html`, `.css`
+
+- 🌍 Active with **Freedom Publishers Union**, **Creative Commons** and **The Tor Project**.
+
+- 💻 Active on GitHub with:
+  - [H Navigator](https://www.github.com/fpucore/h-navigator)
+  - [TrueCrypt](https://www.github.com/fpucore/truecrypt)
+  - [Openbox](https://www.github.com/fpucore/openbox)
+  - [XLibre2](https://www.github.com/fpucore/xlibre2)
+  - [mplayer3](https://www.github.com/fpucore/mplayer3)
+  - [FFmpeg-next](https://www.github.com/fpucore/ffmpeg-next)
+  - [GStreamer2](https://www.github.com/fpucore/gstreamer2)
+
+- 💬 `ping` me about...  **anything**
