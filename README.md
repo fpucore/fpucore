@@ -9,9 +9,13 @@ China Interdependence Advocate
 
 ---
 
+<a href="https://www.x.com/cipheranarchist"><img src="https://img.shields.io/badge/X @cipheranarchist-black" alt="X badge"></a>
+
+---
+
 - ⚙️ Mostly using: `.hash`, `.sh`, `.c`, `.py`, `.perl`, `.raku`, `.js`, `.html`, `.css`
 
-- 🌍 Active with **Freedom Publishers Union**, **Creative Commons** and **The Tor Project**.
+- 🌍 Active with **Freedom Publishers Union™**, **Creative Commons** and **The Tor Project**.
 
 - 💻 Active on GitHub with:
   - [H Navigator](https://www.github.com/fpucore/h-navigator)
