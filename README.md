@@ -27,6 +27,7 @@ China Interdependence Advocate
   - [H Navigator](https://www.github.com/fpucore/h-navigator)
   - [TrueCrypt](https://www.github.com/fpucore/truecrypt)
   - [Openbox](https://www.github.com/fpucore/openbox)
+  - [systemd](https://www.github.com/fpucore/systemd)
   - [XLibre2](https://www.github.com/fpucore/xlibre2)
   - [mplayer3](https://www.github.com/fpucore/mplayer3)
   - [FFmpeg-next](https://www.github.com/fpucore/ffmpeg-next)
