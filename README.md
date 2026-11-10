@@ -19,12 +19,12 @@ China Interdependence Advocate
 
 ---
 
-- ⚙️ Using: `Hash/Bash`, `C/C++`, `COBOL`, `Python`, `Perl5`, `Perl6/Raku(Raku++)`, `Ruby` `Node.js`, `JavaScript`, `HTML/CSS`
+- ⚙️ `Hash/Bash`, `C/C++`, `COBOL`, `Python`, `Perl5`, `Perl6/Raku(Raku++)`, `Ruby` `Node.js`, `JavaScript`, `HTML/CSS`
 
 - 🌍 Active with **Freedom Publishers Union™**, **Creative Commons** and **The Tor Project**.
 
 - 💻 Active on GitHub with:
-  - [H Navigator](https://www.github.com/fpucore/h-navigator) also on [GitFlic](https://www.gitflic.ru/project/fpucore/h-navigator)
+  - [H Navigator](https://www.github.com/fpucore/h-navigator), also on [GitFlic](https://www.gitflic.ru/project/fpucore/h-navigator)
   - [TrueCrypt](https://www.github.com/fpucore/truecrypt)
   - [Openbox](https://www.github.com/fpucore/openbox)
   - [systemd](https://www.github.com/fpucore/systemd)
