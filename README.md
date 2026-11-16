@@ -25,7 +25,7 @@ China Interdependence Advocate
 
 - 💻 Active on GitHub with:
   - [H Navigator](https://www.github.com/fpucore/h-navigator), also on [GitFlic](https://www.gitflic.ru/project/fpucore/h-navigator)
-  - [TrueCrypt](https://www.github.com/fpucore/truecrypt)
+  - [TrueCrypt](https://www.github.com/fpucore/truecrypt), also on [GitFlic](https://www.gitflic.ru/project/fpucore/truecrypt)
   - [Openbox](https://www.github.com/fpucore/openbox)
   - [systemd](https://www.github.com/fpucore/systemd)
   - [XLibre2](https://www.github.com/fpucore/xlibre2)
