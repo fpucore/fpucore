@@ -23,7 +23,7 @@ China Interdependence Advocate
 
 - 🌍 Active with **Freedom Publishers Union™**, **Creative Commons** and **The Tor Project**.
 
-- 💻 Active on GitHub with:
+- 💻 Active on GitHub and GitFlic with:
   - [H Navigator](https://www.github.com/fpucore/h-navigator), also on [GitFlic](https://www.gitflic.ru/project/fpucore/h-navigator)
   - [TrueCrypt](https://www.github.com/fpucore/truecrypt), also on [GitFlic](https://www.gitflic.ru/project/fpucore/truecrypt)
   - [Openbox](https://www.github.com/fpucore/openbox)
