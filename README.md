@@ -19,7 +19,9 @@ China Interdependence Advocate
 
 ---
 
-- ⚙️ `Hash/Sh`, `C/C++`, `COBOL`, `Python`, `Perl5`, `Perl6/Raku(Raku++)`, `Ruby`, `Node.js`, `JavaScript`, `HTML/CSS`
+- 🔨 `Hash/Sh`, `C/C++`, `Rust`, `COBOL`, `Python`, `Perl5/Perl6`, `Ruby`, `Node.js`, `JavaScript`, `HTML/CSS`
+
+- 🏗️ `sh2c`, `GCC/G++`, `Clang`, `Nuitka`, `Raku++`
 
 - 🌍 Active with **Freedom Publishers Union™**, **Creative Commons** and **The Tor Project**.
 
