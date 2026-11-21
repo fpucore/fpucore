@@ -13,9 +13,9 @@ China Interdependence Advocate
 &nbsp;
 <a href="https://www.researchgate.net/profile/Chris-Mcgimpsey-Jones"><img src="https://img.shields.io/badge/ResearchGate-00CCBB" alt="ResearchGate badge"></a>
 &nbsp;
-<a href="https://scholar.google.com/citations?user=f0M8HakAAAAJ&hl"><img src="https://img.shields.io/badge/Google_Scholar-blue" alt="Google Scholar badge"></a>
-&nbsp;
 <a href="https://independent.academia.edu/ChrisMcGimpseyJones"><img src="https://img.shields.io/badge/Academia-gray" alt="Academia badge"></a>
+&nbsp;
+<a href="https://scholar.google.com/citations?user=f0M8HakAAAAJ&hl"><img src="https://img.shields.io/badge/Google_Scholar-blue" alt="Google Scholar badge"></a>
 &nbsp;
 <a href="https://www.x.com/cipheranarchist"><img src="https://img.shields.io/badge/X @cipheranarchist-black" alt="X badge"></a>
 
