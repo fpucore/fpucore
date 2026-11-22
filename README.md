@@ -45,4 +45,4 @@ China Interdependence Advocate
 
 ### Heads up!
 
-If you're looking for my **AfterACE** and 🫛 **EasyPEA** programs they are available over on my [GitLab](https://www.gitlab.com/fpucore)
+If you're looking for my **AfterACE** and 🫛 **EasyPEA** programs they are available over on my [GitLab](https://www.gitlab.com/fpucore).
