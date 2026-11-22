@@ -41,4 +41,8 @@ China Interdependence Advocate
 
 - 💬 `ping` me about...  **anything**
 
-Heads up! If you're looking for my **AfterACE** and 🫛 **EasyPEA** programs they are available over on my [GitLab](https://www.gitlab.com/fpucore)
+---
+
+### Heads up!
+
+If you're looking for my **AfterACE** and 🫛 **EasyPEA** programs they are available over on my [GitLab](https://www.gitlab.com/fpucore)
